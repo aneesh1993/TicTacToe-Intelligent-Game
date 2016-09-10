@@ -1,0 +1,10 @@
+﻿  intelTicTacToe.cpp
+intelTicTacToe.cpp(202): warning C4018: '<': signed/unsigned mismatch
+intelTicTacToe.cpp(214): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 475 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  intelTicTacToe.vcxproj -> C:\Users\anees\documents\visual studio 2015\Projects\intelTicTacToe\Release\intelTicTacToe.exe
+  intelTicTacToe.vcxproj -> C:\Users\anees\documents\visual studio 2015\Projects\intelTicTacToe\Release\intelTicTacToe.pdb (Full PDB)
